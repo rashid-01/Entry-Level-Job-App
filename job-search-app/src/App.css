@@ -1,0 +1,51 @@
+.body {
+	background: linear-gradient(#42275a, #734b6d);
+	padding: 15px;
+}
+.job {
+	width: 80%;
+	margin: 0 auto;
+	display: flex;
+	justify-content: space-between;
+	margin: 20px 0;
+	padding: 20px 10px;
+	align-items: center;
+}
+.job:hover {
+	cursor: pointer;
+	color: #666666;
+}
+.font {
+	color: #ffffff;
+}
+
+.flex1 {
+	flex: 1;
+}
+.flex2 {
+	flex: 2;
+}
+.flex3 {
+	flex: 3;
+}
+.flex {
+	flex: 4;
+}
+.flex5 {
+	flex: 5;
+}
+.flex6 {
+	flex: 6;
+}
+.flex7 {
+	flex: 7;
+}
+.flex8 {
+	flex: 8;
+}
+.justifyCenter {
+	justify-content: center;
+}
+.alignCenter {
+	align-items: center;
+}
